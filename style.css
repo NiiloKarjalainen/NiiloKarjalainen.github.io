@@ -32,3 +32,8 @@ html {
 	width: 1200px;
 	margin: 40px auto;
 }
+
+.site-header {
+	display: inline-block;
+	float: left;
+}
