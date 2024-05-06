@@ -33,7 +33,32 @@ html {
 	margin: 40px auto;
 }
 
+
+
+
+
+.profile,
+.logo,
 .site-header {
 	display: inline-block;
 	float: left;
+}
+
+.profile,
+.logo {
+	max-width: 100%;
+}
+
+.logo a{
+	display: block;
+    line-height: 0;
+}
+
+.site-title {
+	font-weight: bold;
+}
+
+.site-description {
+	font-style: italic;
+	line-height: 1.2;
 }
